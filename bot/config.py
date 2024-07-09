@@ -1,9 +1,9 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    BOT_TOKEN = "6787789501:AAFxG1bQ1L6n6CfodK62GECjuxu8FnrOuyA"
+    APP_ID = "23765163"
+    API_HASH = "008d5313d9006539373c2513373778cd"
+    DATABASE_URL = "mongodb+srv://admin:12341234@cluster0.0xye2w3.mongodb.net/?retryWrites=true&w=majority"
+    SUDO_USERS = "6206131497" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
